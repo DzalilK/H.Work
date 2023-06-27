@@ -1,0 +1,15 @@
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\bin\Debug\net7.0\graf.exe
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\bin\Debug\net7.0\graf.deps.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\bin\Debug\net7.0\graf.runtimeconfig.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\bin\Debug\net7.0\graf.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\bin\Debug\net7.0\graf.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\graf.csproj.AssemblyReference.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\graf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\graf.AssemblyInfoInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\graf.AssemblyInfo.cs
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\graf.csproj.CoreCompileInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\graf.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\refint\graf.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\graf.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\graf.genruntimeconfig.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\graf\obj\Debug\net7.0\ref\graf.dll
