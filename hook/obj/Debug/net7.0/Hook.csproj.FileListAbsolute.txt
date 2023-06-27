@@ -1,0 +1,15 @@
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\bin\Debug\net7.0\Hook.exe
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\bin\Debug\net7.0\Hook.deps.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\bin\Debug\net7.0\Hook.runtimeconfig.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\bin\Debug\net7.0\Hook.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\bin\Debug\net7.0\Hook.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\Hook.csproj.AssemblyReference.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\Hook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\Hook.AssemblyInfoInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\Hook.AssemblyInfo.cs
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\Hook.csproj.CoreCompileInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\Hook.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\refint\Hook.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\Hook.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\Hook.genruntimeconfig.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\Hook\obj\Debug\net7.0\ref\Hook.dll
