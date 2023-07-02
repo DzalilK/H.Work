@@ -1,0 +1,15 @@
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\bin\Debug\net7.0\jop.exe
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\bin\Debug\net7.0\jop.deps.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\bin\Debug\net7.0\jop.runtimeconfig.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\bin\Debug\net7.0\jop.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\bin\Debug\net7.0\jop.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\jop.csproj.AssemblyReference.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\jop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\jop.AssemblyInfoInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\jop.AssemblyInfo.cs
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\jop.csproj.CoreCompileInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\jop.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\refint\jop.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\jop.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\jop.genruntimeconfig.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\jop\obj\Debug\net7.0\ref\jop.dll
