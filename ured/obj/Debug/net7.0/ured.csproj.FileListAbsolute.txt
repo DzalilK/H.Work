@@ -1,0 +1,15 @@
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\bin\Debug\net7.0\ured.exe
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\bin\Debug\net7.0\ured.deps.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\bin\Debug\net7.0\ured.runtimeconfig.json
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\bin\Debug\net7.0\ured.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\bin\Debug\net7.0\ured.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\ured.csproj.AssemblyReference.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\ured.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\ured.AssemblyInfoInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\ured.AssemblyInfo.cs
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\ured.csproj.CoreCompileInputs.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\ured.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\refint\ured.dll
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\ured.pdb
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\ured.genruntimeconfig.cache
+C:\Users\dj-kd\OneDrive\Рабочий стол\H.Work\ured\obj\Debug\net7.0\ref\ured.dll
